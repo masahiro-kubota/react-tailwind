@@ -1,6 +1,7 @@
-# React + TypeScript + Vite
+# React + TypeScript + Tailwind CSS + Vite
 
-Underconstruction
+reactのチュートリアルをTypeScript + Tailwind CSS で書き直したもの。styleを維持するために、Tailwindのリセットスタイルを適用していないのwarningが出る。
+https://ja.react.dev/learn/tutorial-tic-tac-toe
 
 ```
 nvm install
