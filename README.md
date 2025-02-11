@@ -1,5 +1,7 @@
 # React + TypeScript + Tailwind CSS + Vite
 
+https://masahiro-kubota.github.io/react-tailwind/
+
 reactのチュートリアルをTypeScript + Tailwind CSS で書き直したもの。styleを維持するために、Tailwindのリセットスタイルを適用していないのwarningが出る。
 https://ja.react.dev/learn/tutorial-tic-tac-toe
 
