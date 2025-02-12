@@ -14,7 +14,7 @@ export default defineConfig({
     react(),
     checker({
       typescript: {
-        tsconfig: "./tsconfig.app.json",
+        tsconfig: "./tsconfig.json",
       },
     }),
   ],
